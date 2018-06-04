@@ -1,0 +1,44 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="TitleTop">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:fontFamily">@font/source_sans_semibold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_margin">4dp</item>
+    </style>
+
+    <style name="Title">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:fontFamily">@font/source_sans_semibold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">4dp</item>
+    </style>
+
+    <style name="RegularText">
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:fontFamily">@font/source_sans_regular</item>
+        <item name="android:layout_margin">4dp</item>
+    </style>
+
+    <style name="SmallText">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/source_sans_regular</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:layout_margin">2dp</item>
+    </style>
+
+</resources>

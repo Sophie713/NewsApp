@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="separator">|</string>
+    <string name="guardian_heading">Guardian News Stories</string>
+    <string name="update">Update</string>
+    <string name="no_data_message">There is no data to display right now. Try clicking the update button.</string>
+    <string name="url"><![CDATA[https://content.guardianapis.com/search?q=lifestyle&api-key=bad443d6-1a63-4406-a808-a72782dc4330]]></string>
+    <string name="no_connection">You need an internet connection to view the articles. Please connect to the internet and use the update button.</string>
+    <string name="error_message">There has been an error. Please, check your internet connection and try the update button.</string>
+    <string name="success">Success</string>
+</resources>
